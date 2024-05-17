@@ -1,0 +1,7 @@
+{
+  "homepage" : "http://IT21264184.github.io/Fitness-Tracker-Flex-Fit",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+ 
+}
